@@ -1,0 +1,7 @@
+# Ignore Xcode build files
+build/
+*.xcodeproj
+*.xcworkspace
+.DS_Store
+Pods/
+node_modules/
